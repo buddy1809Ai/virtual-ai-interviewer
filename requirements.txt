@@ -1,4 +1,6 @@
 streamlit
 groq
-pypdf
 python-dotenv
+pypdf
+streamlit-mic-recorder
+

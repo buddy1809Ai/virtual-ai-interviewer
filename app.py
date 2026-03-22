@@ -2,7 +2,7 @@ import streamlit as st
 import os
 from dotenv import load_dotenv
 from groq import Groq
-import PyPDF2
+from pypdf import PdfReader
 import io
 import json
 from streamlit_mic_recorder import speech_to_text
